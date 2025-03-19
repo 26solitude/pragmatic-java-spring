@@ -1,4 +1,4 @@
-package org.example.pragmaticjavaspring.ch1_01;
+package org.example.pragmaticjavaspring.ch1.ch1_01;
 
 import lombok.Getter;
 
